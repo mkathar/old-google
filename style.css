@@ -1,0 +1,85 @@
+.board{
+    width: max-content;
+    height: max-content;
+    padding: 50px;
+}
+
+.box1{
+margin-left: 190px;
+}
+.box2{
+   
+background-color: rgb(238, 238, 238);
+   width: auto;
+   padding: 0px;
+   height: 110px;
+    
+}
+.input{
+    margin-left: 290px;
+    margin-bottom: 0px;
+}
+.input2{
+margin-top: 0px;
+margin-left: 300px;
+padding-top: 0px;
+padding-bottom: 0px;
+padding-left: 35px;
+padding-right: 15px;
+margin-bottom: 10px;
+
+}
+.font{
+    font-size: 250%;
+    margin: 0px;
+    position: relative;
+    right: 130px;
+}
+.button{
+    height: 20px;
+    width: 300px;
+    margin-top: 10px;
+    margin-left: 290px;
+    margin-bottom: 0px;
+    position: relative;
+    top: -10px;
+    
+}
+.footerbox1{
+background-color:#70CCC2;
+width: 250px;
+padding-left: 15px;
+position: relative;
+top: 5px;
+height: 80px;;
+margin-right: 10px;
+
+
+}
+.footerbox2{
+    background-color: rgb(112, 204, 194);
+    width: 250px;
+    margin-top: 0px;
+    position: relative;
+    left:270px ;
+    top: -75px;
+    padding-left: 15px;
+    height: 80px;
+    margin-right: 10px;
+    
+
+}
+.footerbox3{
+    background-color: rgb(98, 179, 170);
+   padding-left:15px;
+   width: 218px;
+   height: 80px;
+ 
+   position: relative;
+   bottom:155px;
+   left:539px;
+}
+.font2{
+    margin: 0px;
+    width:750px ;
+}
